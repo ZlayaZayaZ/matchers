@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/6175q0kw2webfl8g?svg=true)](https://ci.appveyor.com/project/ZlayaZayaZ/matchers)
 
+[Полная версия задания](https://github.com/netology-code/ajs-homeworks/tree/ajs8/test-ci)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
